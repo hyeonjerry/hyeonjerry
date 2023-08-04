@@ -7,6 +7,3 @@ HUFS Student | Majoring in Computer Engineering
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyeonjae-K&theme=tokyonight&count_private=true&langs_count=8&layout=compact&hide=CSS,SCSS,Mako)
 ![My github stats](https://github-readme-stats.vercel.app/api/?username=Hyeonjae-K&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true&line_height=24)
-
-
-![Snake animation](https://github.com/Hyeonjae-K/Hyeonjae-K/blob/output/github-contribution-grid-snake.svg)
